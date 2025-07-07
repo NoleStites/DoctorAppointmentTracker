@@ -60,8 +60,8 @@ appointment-tracker/ \
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/appointment-tracker.git
-cd appointment-tracker
+git clone https://github.com/NoleStites/DoctorAppointmentTracker.git
+cd DoctorAppointmentTracker
 ```
 
 ### 2. Run the Backend (C# API)
