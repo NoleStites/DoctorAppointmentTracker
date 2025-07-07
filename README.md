@@ -29,19 +29,19 @@ This is a full-stack web application for managing appointments. Users can view, 
 ---
 
 ## Project Structure
-appointment-tracker/
-├── HealthTracker.Api/ # ASP.NET Core backend
-│ ├── Program.cs # API entry point and route configuration
-│ ├── Appointment.cs # Appointment model
-│ └── ... (other .NET files)
-├── healthtracker-client/ # React frontend
-│ ├── src/
-│ │ ├── App.tsx # Main application logic
-│ │ ├── CreateAppointmentModal.tsx# Modal form for creating appointments
-│ │ └── ...
-│ └── public/
-│ └── ...
-└── README.md
+appointment-tracker/ \
+├── HealthTracker.Api/ # ASP.NET Core backend \
+│ ├── Program.cs # API entry point and route configuration \
+│ ├── Appointment.cs # Appointment model \
+│ └── ... (other .NET files) \
+├── healthtracker-client/ # React frontend \
+│ ├── src/ \
+│ │ ├── App.tsx # Main application logic \
+│ │ ├── CreateAppointmentModal.tsx# Modal form for creating appointments \
+│ │ └── ... \
+│ └── public/ \
+│ └── ... \
+└── README.md \
 
 ---
 
